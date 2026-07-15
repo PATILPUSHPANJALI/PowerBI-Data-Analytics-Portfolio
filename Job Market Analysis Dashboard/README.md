@@ -73,7 +73,7 @@ Below are previews of some of the interactive report pages included in the dashb
 
 ### 📑 Index
 
-![Index](Dashboard%20Screenshots/Index.png)
+![Index](Dashboard/Screenshots/Index.png)
 
 ---
 
