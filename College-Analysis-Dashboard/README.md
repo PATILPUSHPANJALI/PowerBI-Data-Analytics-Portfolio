@@ -168,6 +168,76 @@ The dashboard consists of **20 interactive report pages**, covering various acad
 
 ---
 
+## 📸 Dashboard Preview
+
+Below are previews of some of the interactive report pages included in the dashboard.
+
+### 🏠 Home Page
+
+![Home Page](Dashboard%20Screenshots/Home%20Page.png)
+
+---
+
+### 🏫 College Overview
+
+![College Overview](Dashboard%20Screenshots/College%20Overview.png)
+
+---
+
+### 📈 Academic Performance
+
+![Academic Performance](Dashboard%20Screenshots/Academic%20Performace.png)
+
+---
+
+### 🎓 FYBCA Students Marks Analysis
+
+![FYBCA Students Marks Analysis](Dashboard%20Screenshots/FYBCA%20Students%20Marks%20Analysis.png)
+
+---
+
+### 🎓 SYBCA Students Marks Analysis
+
+![SYBCA Students Marks Analysis](Dashboard%20Screenshots/SYBCA%20Students%20Marks%20Analysis.png)
+
+---
+
+### 🎓 TYBCA Students Marks Analysis
+
+![TYBCA Students Marks Analysis](Dashboard%20Screenshots/TYBCA%20Students%20Marks%20Analysis.png)
+
+---
+
+### 👨‍🎓 Student Demographics
+
+![Student Demographics](Dashboard%20Screenshots/Student%20Demographics.png)
+
+---
+
+### 👨‍🏫 Faculty & Staff Analysis
+
+![Faculty & Staff Analysis](Dashboard%20Screenshots/Faculty%20%26%20Staff.png)
+
+---
+
+### 😊 Student Satisfaction
+
+![Student Satisfaction](Dashboard%20Screenshots/Student%20Satisfaction.png)
+
+---
+
+## 📁 Repository Contents
+
+- 📊 **College Analysis Dashboard.pbix** – Power BI dashboard file
+- 📑 **Dataset.xlsx** – Dataset used for analysis
+- 📄 **Project Report.pdf** – Detailed project documentation
+- 🖼️ **Dashboard Screenshots** – Preview images of dashboard pages
+- 📘 **README.md** – Project documentation
+
+---
+
+---
+
 ## 💡 Business Insights
 
 This dashboard enables educational institutions to:
