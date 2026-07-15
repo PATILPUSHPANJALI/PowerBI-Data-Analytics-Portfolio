@@ -79,37 +79,37 @@ Below are previews of some of the interactive report pages included in the dashb
 
 ### 📊 Job Market Overview
 
-![Job Market Overview](Dashboard%20Screenshots/Job%20Market%20Overview.png)
+![Job Market Overview](Screenshots/Job%20Market%20Overview.png)
 
 ---
 
 ### 🎁 Job Benefits Analysis
 
-![Job Benefits Analysis](Dashboard%20Screenshots/Job%20Benefits%20Analysis.png)
+![Job Benefits Analysis](Screenshots/Job%20Benefits%20Analysis.png)
 
 ---
 
 ### 🏢 Company Size by Country
 
-![Company Size by Country](Dashboard%20Screenshots/Company%20Size%20by%20Country.png)
+![Company Size by Country](Screenshots/Company%20Size%20by%20Country.png)
 
 ---
 
 ### 💰 Salary Range Analysis
 
-![Salary Range Analysis](Dashboard%20Screenshots/Salary%20Range%20Analysis.png)
+![Salary Range Analysis](Screenshots/Salary%20Range%20Analysis.png)
 
 ---
 
 ### 📍 Location Insights
 
-![Location Insights](Dashboard%20Screenshots/Location%20Insights.png)
+![Location Insights](Screenshots/Location%20Insights.png)
 
 ---
 
 ### 💼 Job Type Analysis
 
-![Job Type Analysis](Dashboard%20Screenshots/Job%20Type%20Analysis.png)
+![Job Type Analysis](Screenshots/Job%20Type%20Analysis.png)
 
 ---
 
