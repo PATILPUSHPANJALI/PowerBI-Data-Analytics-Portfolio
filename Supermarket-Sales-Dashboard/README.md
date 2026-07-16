@@ -6,8 +6,6 @@ An interactive Power BI dashboard that provides a comprehensive overview of supe
 
 ## 📊 Dashboard Preview
 
-> Save your dashboard screenshot in this folder as **`dashboard_preview.png`**.
-
 ![Supermarket Sales Dashboard Preview](./dashboard_preview.png)
 
 ---
