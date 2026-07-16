@@ -50,7 +50,7 @@ PowerBI-Data-Analytics-Portfolio/
 ├── Employee Attrition Dashboard/      
 │   ├── README.md                      
 │   ├── dashboard_preview.png          
-│   └── STUDENT DEPRESSION ANALYSIS.pbix 
+│   └── Employee Turnover Executive Summary 
 ├── HR-Analytics-Dashboard/            
 ├── Job Market Analysis Dashboard/
 └── Student Depression Analysis Dashboard/
