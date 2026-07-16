@@ -73,7 +73,7 @@ Analyzes employee leave and workplace distribution:
 - Employee Count by City
 - Performance Review by City
 
-![Vacation & Work-Life Balance](Screenshots/04_Vacation_and_WorkLife_Balance.png)
+![Vacation & Work-Life Balance](Screenshots/04_Vacation_and_Work-Life_Balance.png)
 
 ---
 
