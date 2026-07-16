@@ -215,9 +215,9 @@ PowerBI-Data-Analytics-Portfolio/
 ├── PwC-Customer-Retention-Dashboard/
 │   ├── README.md
 │   ├── Customer Retention.pbix
-│   ├── welcome_page.png          # Welcome dashboard preview
-│   ├── churn_page.png            # Churn dashboard preview
-│   └── risk_page.png             # Customer risk dashboard preview
+│   ├── welcome_page.png          
+│   ├── churn_page.png            
+│   └── risk_page.png             
 ├── PwC-Diversity-Inclusion-Dashboard/
 ├── Student-Depression-Analysis-Dashboard/
 └── Supermarket-Sales-Dashboard/
