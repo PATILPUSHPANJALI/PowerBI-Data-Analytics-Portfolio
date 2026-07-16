@@ -148,7 +148,7 @@ PowerBI-Data-Analytics-Portfolio/
 ├── PwC-Call-Center-Solution-Dashboard/
 │   ├── README.md
 │   ├── Call Center Solution.pbix
-│   └── dashboard_preview.png          # Dashboard preview image
+│   └── dashboard_preview.png          
 ├── PwC-Customer-Retention-Dashboard/
 ├── PwC-Diversity-Inclusion-Dashboard/
 ├── Student-Depression-Analysis-Dashboard/
