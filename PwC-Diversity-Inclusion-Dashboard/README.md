@@ -8,15 +8,11 @@ An interactive two-page Power BI dashboard developed as part of the **PwC Virtua
 
 ### Page 1 – Recruitment, Promotion & Turnover Analysis
 
-> Save the screenshot as **`page1_preview.png`**.
-
 ![PwC Dashboard Page 1](./page1_preview.png)
 
 ---
 
 ### Page 2 – Performance Ratings & Executive Diversity
-
-> Save the screenshot as **`page2_preview.png`**.
 
 ![PwC Dashboard Page 2](./page2_preview.png)
 
