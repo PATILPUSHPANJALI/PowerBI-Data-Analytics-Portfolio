@@ -6,7 +6,7 @@ An interactive, single-page Power BI dashboard designed to analyze employee attr
 
 ## 📊 Dashboard Preview
 
-![Attrition Dashboard Preview](./dashboard_preview.png)
+![Attrition Dashboard Preview](./dashboard20preview.png)
 
 ---
 
