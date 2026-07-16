@@ -49,7 +49,7 @@ PowerBI-Data-Analytics-Portfolio/
 ├── PwC-Call-Center-Solution-Dashboard/
 ├── PwC-Customer-Retention-Dashboard/
 ├── PwC-Diversity-Inclusion-Dashboard/
-├── Sales-Summary-Dashboard/             # This new project folder
+├── Sales-Summary-Dashboard/             
 │   ├── Case Study -Sales Summary Dashboard on Power BI.pbix
 │   ├── README.md
 │   └── sales_summary_dashboard.png
