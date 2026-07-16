@@ -43,5 +43,5 @@ I built this portfolio entirely to develop my technical skill set, gain practica
 
 ## 📬 Connect with Me
 
-*   **LinkedIn:** linkedin.com/in/pushpanjalidataexpert
+*   **LinkedIn:** (https://www.linkedin.com/in/pushpanjalidataexpert/)
 *   **Email:** pushpanjalidata1@gmail.com
