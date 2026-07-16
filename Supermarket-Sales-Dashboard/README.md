@@ -148,7 +148,7 @@ PowerBI-Data-Analytics-Portfolio/
 └── Supermarket-Sales-Dashboard/
     ├── README.md
     ├── SUPER MARKET SALES.pbix
-    └── dashboard_preview.png          # Dashboard preview image
+    └── dashboard_preview.png          
 ```
 
 ---
