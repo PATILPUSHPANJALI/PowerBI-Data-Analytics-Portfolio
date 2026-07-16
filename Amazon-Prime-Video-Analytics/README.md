@@ -34,7 +34,6 @@ The single-page dashboard focuses on content tracking and distribution matrices:
 This project is organized into its own dedicated folder within the master analytics portfolio:
 ```text
 PowerBI-Data-Analytics-Portfolio/
-├── Student Depression Analysis Dashboard/
 ├── Amazon-Prime-Video-Analytics/
 │   ├── README.md                      # Project documentation
 │   └── Amazon Dashboard.pbix          # Main Power BI project file
