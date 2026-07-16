@@ -7,25 +7,16 @@ An interactive three-page Power BI dashboard developed as part of the **PwC Virt
 ## 📊 Dashboard Previews
 
 ### Page 1 – Welcome Portal
-
-> Save the screenshot as **`welcome_page.png`**.
-
 ![Welcome Dashboard](./welcome_page.png)
 
 ---
 
 ### Page 2 – Churn Dashboard
-
-> Save the screenshot as **`churn_page.png`**.
-
 ![Churn Dashboard](./churn_page.png)
 
 ---
 
 ### Page 3 – Customer Risk Analysis
-
-> Save the screenshot as **`risk_page.png`**.
-
 ![Risk Dashboard](./risk_page.png)
 
 ---
